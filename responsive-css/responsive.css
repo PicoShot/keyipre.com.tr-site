@@ -1,0 +1,1897 @@
+
+@media screen and (max-width:980px) ,screen and (max-device-width:980px) {
+
+  .banner{display:block;}
+
+
+}
+@media screen and (max-width: 1370px)
+{
+    #keyipre
+    {
+
+        margin-top: 5px;
+    }
+    .font
+    {
+        font-size: 30px;
+        margin-top: -60;
+        float: left;
+        margin-left: 25px;
+        
+    }
+.text  a
+    {
+        margin-top: 7;
+        padding: 45px;
+
+    }
+    .contacttext
+    {
+       font-size: 12.5px;
+       margin-top: -110px;
+    }
+    .img img
+    {
+        width: 28px;
+        height: 28px;
+        padding: 10px 0px;
+    }
+    .glogo
+    {
+        margin-top: 23.1px;
+        margin-left: 0px;
+    }
+    .ilogo
+    {
+        margin-top: -19px;
+        margin-left: 0px;
+    }
+    
+}
+@media screen and (max-width: 1245px)
+{
+    .btext
+    {
+        font-size: 22px;
+    }
+    .font
+    {
+        font-size: 25px;
+        margin-top: -40;
+        float: left;
+        margin-left: 25px;
+        
+    }
+.text  a
+    {
+        margin-top: 7;
+        padding: 40px;
+        float: right;
+    }
+    .contacttext
+    {
+       font-size: 12.5px;
+       margin-top: -110px;
+    }
+    .img img
+    {
+        width: 28px;
+        height: 28px;
+        padding: 10px 0px;
+    }
+    .glogo
+    {
+        margin-top: 23.1px;
+        margin-left: 0px;
+    }
+    .ilogo
+    {
+        margin-top: -19px;
+        margin-left: 0px;
+    }
+
+}
+@media screen and (max-width: 1095px)
+{
+    .btext
+    {
+        font-size: 17px;
+    }
+    .font
+    {
+        font-size: 25px;
+        margin-top: -50;
+        float: left;
+        margin-left: 25px;
+        
+    }
+.text  a
+    {
+        margin-top: 7;
+        padding: 35px;
+        float: right;
+    }
+    .contacttext
+    {
+       font-size: 12.5px;
+       margin-top: -110px;
+    }
+    .img img
+    {
+        width: 28px;
+        height: 28px;
+        padding: 10px 0px;
+    }
+    .glogo
+    {
+        margin-top: 23.1px;
+        margin-left: 0px;
+    }
+    .ilogo
+    {
+        margin-top: -19px;
+        margin-left: 0px;
+    }
+
+    .mcpre
+    {
+        max-width: 260px;
+        width: 100%;
+        height: 625px;
+    }
+
+}
+@media screen and (max-width: 1025px)
+{
+    .btext
+    {
+        margin-top: -290px;
+    }
+    .pre-text
+    {
+        font-size: 13px;
+    }
+    .font
+    {
+        font-size: 25px;
+        margin-top: -45;
+        float: left;
+        margin-left: 25px;
+        
+    }
+.text  a
+    {
+        margin-top: 7;
+        padding: 30px;
+        float: right;
+    }
+    .font
+    {
+        font-size: 25px;
+        margin-top: -25;
+        float: left;
+        margin-left: 25px;
+        
+    }
+.text  a
+    {
+        margin-top: 7;
+        padding: 25px;
+        float: right;
+    }
+    .contacttext
+    {
+       font-size: 12.5px;
+       margin-top: -110px;
+    }
+    .img img
+    {
+        width: 28px;
+        height: 28px;
+        padding: 10px 0px;
+    }
+    .glogo
+    {
+        margin-top: 23.1px;
+        margin-left: 0px;
+    }
+    .ilogo
+    {
+        margin-top: -19px;
+        margin-left: 0px;
+    }
+
+    .mcpre
+    {
+        max-width: 200px;
+        width: 100%;
+        height: 625px;
+    }
+    .c
+    {
+        margin-left: 85px;
+    }
+}
+@media screen and (max-width: 980px)
+{
+    .font
+    {
+        font-size: 25px;
+        margin-top: -25;
+        float: left;
+        margin-left: 25px;
+        
+    }
+.text  a
+    {
+        margin-top: 7;
+        padding: 25px;
+        float: right;
+    }
+    .contacttext
+    {
+       font-size: 12.5px;
+       margin-top: -110px;
+    }
+    .img img
+    {
+        width: 28px;
+        height: 28px;
+        padding: 10px 0px;
+    }
+    .glogo
+    {
+        margin-top: 23px;
+        margin-left: 0px;
+    }
+    .ilogo
+    {
+        margin-top: -19px;
+        margin-left: 0px;
+    }
+
+    a
+    {
+      text-decoration: none;
+      color: brown;
+      transition: color 0.3s ease;
+    }
+    
+    a:hover
+    {
+      color: tomato;
+    }
+    
+    #menuToggle
+    {
+      display: block;
+      position: relative;
+      top: 32px;
+      margin-left: 50px;
+      z-index: 1;
+      -webkit-user-select: none;
+      user-select: none;
+    }
+    
+    #menuToggle input
+    {
+      display: block;
+      width: 40px;
+      height: 32px;
+      position: absolute;
+      top: -7px;
+      left: -5px;
+      cursor: pointer;
+      opacity: 0; 
+      z-index: 2; 
+      -webkit-touch-callout: none;
+    }
+    #menuToggle span
+    {
+      display: block;
+      width: 33px;
+      height: 4px;
+      margin-bottom: 5px;
+      position: relative;
+      background: #cdcdcd;
+      border-radius: 3px;
+      z-index: 1;
+      transform-origin: 4px 0px;
+      transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+      background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+                  opacity 0.55s ease;
+    }
+    
+    #menuToggle span:first-child
+    {
+      transform-origin: 0% 0%;
+    }
+    
+    #menuToggle span:nth-last-child(2)
+    {
+      transform-origin: 0% 100%;
+    }
+    #menuToggle input:checked ~ span
+    {
+      opacity: 1;
+      transform: rotate(45deg) translate(-2px, -1px);
+      background: #232323;
+    }
+    #menuToggle input:checked ~ span:nth-last-child(3)
+    {
+      opacity: 0;
+      transform: rotate(0deg) scale(0.2, 0.2);
+    }
+    #menuToggle input:checked ~ span:nth-last-child(2)
+    {
+      transform: rotate(-45deg) translate(0, -1px);
+    }
+    #menu
+    {
+      position: absolute;
+      max-width: 150px;
+      width: auto;
+      margin: -100px 0 0 -50px;
+      padding: 50px;
+      padding-top: 125px;
+      background: #363535;
+      list-style-type: none;
+      -webkit-font-smoothing: antialiased;
+      transform-origin: 0% 0%;
+      transform: translate(-100%, 0);
+      transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
+    }
+    
+    #menu li
+    {
+      padding: 30px 0;
+      font-size:40px;
+    }
+    #menuToggle input:checked ~ ul
+    {
+      transform: none;
+    }  
+    .banner
+    {
+        width: 100%;
+        height: 120px;
+    }
+    .b-a
+    {
+        display: none;
+    }
+    .mcpre
+    {
+        max-width: 200px;
+        width: 100%;
+        height: 625px;
+    }
+    .c
+    {
+        margin-left: 60px;
+    }
+}
+@media screen and (max-width: 915px)
+{
+    .btext
+    {
+        margin-top: -290px;
+        margin-left: 10px;
+        font-size: 15;
+    }
+
+    .font
+    {
+        font-size: 25px;
+        margin-top: -20;
+        float: left;
+        margin-left: 25px;
+        
+    }
+.text  a
+    {
+        margin-top: 7;
+        padding: 20px;
+        float: right;
+    }
+    .contacttext
+    {
+       font-size: 12px;
+       margin-top: -110px;
+    }
+    .img img
+    {
+        width: 25px;
+        height: 25px;
+        padding: 10px 0px;
+    }
+    .glogo
+    {
+        margin-top: 22px;
+        margin-left: 0px;
+    }
+    .ilogo
+    {
+        margin-top: -15px;
+        margin-left: 0px;
+    }
+
+    
+    .mcpre
+    {
+        max-width: 200px;
+        width: 100%;
+        height: 625px;
+    }
+    .c
+    {
+        margin-left: 35px;
+    }
+    .odemealani
+    {
+       width: 100%;
+       max-width: 400px;
+       float: left;
+    }
+    .odemebilgiler
+    {
+        width: 100%;
+        max-width: 400px;
+        margin-top: -15px;
+        margin-left: 10px;
+    }
+    .k-s
+    {
+        width: 250px;
+        height: 40px;
+    }
+    .k-ss
+    {
+        height: 40px;
+    }
+    .odemeform
+    {
+        width: 100%;
+        max-width: 750px;
+    }
+    #k-name
+    {
+        float: left;
+        margin-left: 65px;
+        margin-top: 0px;
+    }
+    #k-name2
+    {
+       float: left;
+       margin-left: 170px;
+    }
+    #k-surname
+    {
+        float: left;
+        margin-left: 65px;
+    }
+    #k-surname2
+    {
+        float: left;
+       margin-left: 160px;
+    }
+    #k-num
+    {
+        float: left;
+        margin-left: 65px;
+    }
+    #k-num2
+    {
+        float: left;
+       margin-left: 135px;
+    }
+    #k-mail
+    {
+        float: left;
+        margin-left: 65px;
+    }
+    #k-mail2
+    {
+        float: left;
+       margin-left: 160px;
+    }
+    #k-cvv
+    {
+        float: left;
+        margin-left: 140px;
+    }
+    #k-cvv2
+    {
+        float: left;
+       margin-left: 170px;
+    }
+    #k-tarih
+    {
+        float: left;
+        margin-left: 140px;
+    }
+    #k-tarih2
+    {
+        float: left;
+       margin-left: 170px;
+       
+    }
+    .o-text
+    {
+        font-size: 10px;
+    }
+    #k-buton
+    {
+        float: left;
+        margin-top: 75px;
+        margin-left: -70;
+    }
+    #k-buton
+    {
+        position: relative;
+        margin-left: -105px;
+    }
+}
+@media screen and (max-width: 890px)
+{
+    .premiumkeyi
+    {
+        margin-left: 300px;
+        margin-top: 10px;
+        font-size: 10px;
+    }
+    #iim
+    {
+        margin-left: 150px;
+        margin-top: 90px;
+    }
+    .etiketler
+    {
+        margin-top: -150px;
+        margin-left: -17em;
+
+    }
+    .btext
+    {
+        margin-top: -290px;
+        margin-left: 10px;
+        font-size: 10;
+    }
+    .odbg-conteiner
+    {
+        margin-top: 1600px;
+    }
+    .mcpre
+    {
+        max-width: 200px;
+        width: 100%;
+        height: 625px;
+    }
+    .c
+    {
+        margin-left: 130px;
+    }
+    #mcpre-1
+    {
+        margin-top: 50px;
+    }
+    #h-1
+    {
+        margin-left:15px;
+    }
+    .h2
+    {
+        margin-left: 15px;
+        margin-top: 750px;
+    }
+    .pre-text
+    {
+        font-size: 12px;
+    }
+    .pre-text-bord
+    {
+        height: 200px;
+    }
+    .p-alan
+    {
+        width: 100%;
+        max-width: 200px;
+    }
+    .odemeform
+    {
+        width: 100%;
+        max-width: 660px;
+    }
+    .odemealani
+    {
+       width: 100%;
+       max-width: 390px;
+       float: left;
+    }
+    .odemebilgiler
+    {
+        width: 100%;
+        max-width: 380px;
+        margin-top: -15px;
+        margin-left: 40px;
+    }
+    #k-name
+    {
+        float: left;
+        margin-left: 45px;
+    }
+    #k-name2
+    {
+       float: left;
+       margin-left: 150px;
+    }
+    #k-surname
+    {
+        float: left;
+        margin-left: 45px;
+    }
+    #k-surname2
+    {
+        float: left;
+        margin-left: 140px;
+    }
+    #k-num
+    {
+        float: left;
+        margin-left: 45px;
+    }
+    #k-num2
+    {
+        float: left;
+        margin-left: 110px;
+    }
+    #k-mail
+    {
+        float: left;
+        margin-left: 45px;
+    }
+    #k-mail2
+    {
+        float: left;
+       margin-left: 135px;
+    }
+    #k-cvv
+    {
+        float: left;
+        margin-left: 120px;
+    }
+    #k-cvv2
+    {
+        float: left;
+       margin-left: 152px;
+    }
+    #k-tarih
+    {
+        float: left;
+        margin-left: 120px;
+    }
+    #k-tarih2
+    {
+        float: left;
+       margin-left: 150px;
+       
+    }
+	.satinalbasliktext
+	{
+		font-size:10px;
+	}
+}
+@media screen and (max-width: 790px)
+{
+    .premiumkeyi
+    {
+        margin-left: 275px;
+        margin-top: 10px;
+        font-size: 10px;
+    }
+    #iim
+    {
+        margin-left: 135px;
+        margin-top: 90px;
+    }
+    .etiketler
+    {
+        margin-top: -150px;
+        margin-left: -16em;
+
+    }
+    .btext
+    {
+        margin-top: 0px;
+        margin-left: 130px;
+        font-size: 15;
+
+    }
+    .odbg-conteiner
+    {
+        margin-top: 1600px;
+    }
+    .font
+    {
+        font-size: 25px;
+        margin-top: -30;
+        float: left;
+        margin-left: 25px;
+        
+    }
+.text  a
+    {
+        margin-top: 7;
+        padding: 15px;
+        float: right;
+    }
+    .contacttext
+    {
+       font-size: 12px;
+       margin-top: -108px;
+    }
+    .img img
+    {
+        width: 25px;
+        height: 25px;
+        padding: 10px 0px;
+    }
+    .glogo
+    {
+        margin-top: 28px;
+        margin-left: 0px;
+    }
+    .ilogo
+    {
+        margin-top: -19px;
+        margin-left: 0px;
+    }
+
+    .mcpre
+    {
+        max-width: 270px;
+        width: 100%;
+        height: 625px;
+    }
+    .c
+    {
+        margin-left: 35px;
+    }
+    #mcpre-1
+    {
+        margin-top: 50px;
+    }
+    #mc-2
+    {
+        margin-top: 0px;
+    }
+    #h-1
+    {
+        margin-left:15px;
+    }
+    .pre-text
+    {
+        font-size: 12px;
+    }
+    .pre-text-bord
+    {
+        height: 200px;
+    }
+    .p-alan
+    {
+        width: 100%;
+        max-width: 200px;
+    }
+    .odemeform
+    {
+        width: 100%;
+        max-width: 660px;
+    }
+    .odemealani
+    {
+       width: 100%;
+       max-width: 390px;
+       float: left;
+    }
+    .odemebilgiler
+    {
+        width: 100%;
+        max-width: 380px;
+        margin-top: -15px;
+        margin-left: 10px;
+    }
+    #k-name
+    {
+        float: left;
+        margin-left: 75px;
+    }
+    #k-name2
+    {
+       float: left;
+       margin-left: 180px;
+    }
+    #k-surname
+    {
+        float: left;
+        margin-left: 75px;
+    }
+    #k-surname2
+    {
+        float: left;
+        margin-left: 167px;
+    }
+    #k-num
+    {
+        float: left;
+        margin-left: 75px;
+    }
+    #k-num2
+    {
+        float: left;
+        margin-left: 145px;
+    }
+    #k-mail
+    {
+        float: left;
+        margin-left: 75px;
+    }
+    #k-mail2
+    {
+        float: left;
+       margin-left: 160px;
+    }
+    #k-cvv
+    {
+        float: left;
+        margin-left: 150px;
+    }
+    #k-cvv2
+    {
+        float: left;
+       margin-left: 180px;
+    }
+    #k-tarih
+    {
+        float: left;
+        margin-left: 150px;
+    }
+    #k-tarih2
+    {
+        float: left;
+       margin-left: 180px;
+    }
+    .o-text
+    {
+        font-size: 10px;
+        margin-left: 35px;
+    }
+}
+@media screen and (max-width: 699px)
+{
+    
+    .premiumkeyi
+    {
+        margin-left: 237px;
+        margin-top: 10px;
+        font-size: 10px;
+    }
+    #iim
+    {
+        margin-left: 115px;
+        margin-top: 90px;
+    }
+    .etiketler
+    {
+        margin-top: -150px;
+        margin-left: -14.7em;
+
+    }
+    #keyipre
+    {
+        font-size: 15;
+        margin-top: 5px;
+    }
+    .btext
+    {
+        margin-top: 0px;
+        margin-left: 55px;
+        font-size: 15;
+
+    }
+    .odbg-conteiner
+    {
+        margin-top: 5900px;
+    }
+    .f
+    
+    .font
+    {
+        font-size: 20px;
+        margin-top: -35;
+        float: left;
+        margin-left: 25px;
+        
+    }
+.text  a
+    {
+        margin-top: 7;
+        padding: 15px;
+        float: right;
+    }
+    .contacttext
+    {
+       font-size: 12px;
+       margin-top: -107px;
+    }
+    .img img
+    {
+        width: 23px;
+        height: 23px;
+        padding: 10px 0px;
+    }
+    .glogo
+    {
+        margin-top: 28px;
+        margin-left: 2px;
+    }
+    .ilogo
+    {
+        margin-top: -15px;
+        margin-left: 2px;
+    }
+    .mcpre
+    {
+        max-width: 250px;
+        width: 100%;
+        height: 625px;
+    }
+    .c
+    {
+        margin-left: 150px;
+    }
+    #mcpre-1
+    {
+        margin-top: 50px;
+    }
+    #h-1
+    {
+        margin-left:15px;
+    }
+    .h2
+    {
+        margin-left: 15px;
+        margin-top: 2810px;
+    }
+    .odemeform
+    {
+        width: 100%;
+        max-width: 600px;
+    }
+    .odemealani
+    {
+       width: 100%;
+       max-width: 250px;
+       float: left;
+    }
+    .odemebilgiler
+    {
+        width: 100%;
+        max-width: 300px;
+        margin-top: -15px;
+        margin-left: 30px;
+    }
+    .p-alan
+    {
+        width: 100%;
+        max-width: 200px;
+    }
+    .k-s
+    {
+        width: 200px;
+    }
+    #k-name
+    {
+        float: left;
+        margin-left: 45px;
+        margin-top: 0px;
+    }
+    #k-name2
+    {
+       float: left;
+       margin-left: 135px;
+    }
+    #k-surname
+    {
+        float: left;
+        margin-left: 45px;
+    }
+    #k-surname2
+    {
+        float: left;
+        margin-left: 122px;
+    }
+    #k-num
+    {
+        float: left;
+        margin-left: 45px;
+    }
+    #k-num2
+    {
+        float: left;
+        margin-left: 95px;
+    }
+    #k-mail
+    {
+        float: left;
+        margin-left: 45px;
+    }
+    #k-mail2
+    {
+        float: left;
+       margin-left: 120px;
+    }
+    #k-cvv
+    {
+        float: left;
+        margin-left: 100px;
+    }
+    #k-cvv2
+    {
+        float: left;
+       margin-left: 132px;
+    }
+    #k-tarih
+    {
+        float: left;
+        margin-left: 100px;
+    }
+    #k-tarih2
+    {
+        float: left;
+       margin-left: 132px;
+       
+    }
+    .o-text
+    {
+        font-size: 10px;
+        margin-left: 115px;
+    }
+    #k-buton
+    {
+        float: left;
+        margin-top: 75px;
+        margin-left: -70;
+    }
+    #k-buton
+    {
+        position: relative;
+        margin-left: -105px;
+    }
+    .menu-icerik
+    {
+        min-width: 190px;
+        font-size: 10px;
+        
+    }
+    .menubuton
+    {
+        max-width: 190px;
+        font-size: 10px;
+    }
+}
+@media screen and (max-width: 550px)
+{
+    .odbg-conteiner
+    {
+        margin-top: 5900px;
+    }
+    
+    .premiumkeyi
+    {
+        margin-left: 165px;
+        margin-top: 10px;
+        font-size: 10px;
+    }
+    #iim
+    {
+        margin-left: 82px;
+        margin-top: 90px;
+    }
+    .etiketler
+    {
+        margin-top: -150px;
+        margin-left: -12.5em;
+
+    }
+    #keyipre
+    {
+        font-size: 12;
+        margin-top: 5px;
+    }
+    #telif
+    {
+        font-size: 14;
+    }
+    .btext
+    {
+        margin-top: 0px;
+        margin-left: 20px;
+        font-size: 15;
+
+    }
+    .font
+    {
+        margin-top: -56px;
+        float: left;
+        margin-left: 0px;
+        font-size: 20px;
+    }
+    .text
+    {
+        margin-left: 15px;
+        padding: 10%;
+        float: right;
+    }
+    .contacttext
+    {
+       font-size: 12px;
+       margin-top: -100px;
+    }
+    .img img
+    {
+        width: 20px;
+        height: 20px;
+        padding: 10px 0px;
+    }
+    .glogo
+    {
+        margin-top: 25.5px;
+        margin-left: 4px;
+    }
+    .ilogo
+    {
+        margin-top: -14px;
+        margin-left: 4px;
+    }
+        .mcpre
+        {
+            max-width: 200px;
+            width: 100%;
+            height: 625px;
+        }
+        .c
+        {
+            margin-left: 120px;
+        }
+        #mcpre-1
+    {
+        margin-top: 50px;
+    }
+    .h2
+    {
+        margin-left: 15px;
+        margin-top: 2900px;
+    }
+    #h-1
+    {
+        margin-left:15px;
+    }
+    .odemebilgiler
+    {
+        width: 100%;
+        max-width: 300px;
+        margin-top: -15px;
+        margin-left: 5px;
+    }
+    .o-text
+    {
+        margin-left: 60px;
+    }
+}
+@media screen and (max-width: 500px)
+{
+    .odbg-conteiner
+    {
+        margin-top: 5900px;
+    }
+    .premiumkeyi
+    {
+        margin-left: 120px;
+        margin-top: 15px;
+        font-size: 10px;
+    }
+    #iim
+    {
+        margin-left: 60px;
+        margin-top: 75px;
+    }
+    .etiketler
+    {
+        margin-top: -150px;
+        margin-left: -11.3em;
+
+    }
+    .btext
+    {
+        margin-top: 0px;
+        margin-left: 0px;
+        font-size: 15;
+
+    }
+    
+    .font
+    {
+        font-size: 15px;
+        margin-top: -60;
+        float: left;
+        margin-left: 0px;
+        
+    }
+    .text
+    {
+        margin-left: 25px;
+        padding: 10%;
+    }
+    .contacttext
+    {
+       font-size: 10px;
+       margin-top: -100px;
+    }
+    .img img
+    {
+        width: 20px;
+        height: 20px;
+        padding: 10px 0px;
+    }
+    .glogo
+    {
+        margin-top: 26px;
+        margin-left: 5px;
+    }
+    .ilogo
+    {
+        margin-top: -16px;
+        margin-left: 5px;
+    }
+    .mcpre
+    {
+        max-width: 200px;
+        width: 100%;
+        height: 625px;
+    }
+    .c
+    {
+        margin-left: 95px;
+    }
+    #mcpre-1
+    {
+        margin-top: 50px;
+    }
+    #h-1
+    {
+        margin-left: 15px;
+    }
+    .odemeform
+    {
+        width: 100%;
+        max-width: 600px;
+    }
+    .odemealani
+    {
+       width: 100%;
+       max-width: 250px;
+       float: left;
+    }
+    .odemebilgiler
+    {
+        width: 100%;
+        max-width: 300px;
+        margin-top: -15px;
+        margin-left: -15px;
+    }
+    .p-alan
+    {
+        width: 100%;
+        max-width: 150px;
+    }
+    .k-s
+    {
+        width: 200px;
+    }
+}
+@media screen and (max-width: 490px)
+{
+    .odbg-conteiner
+    {
+        margin-top: 5900px;
+    }
+    .mccc2
+    {
+        margin-right: -0;
+    }
+    
+    .c
+    {
+        margin-left: 60px;
+    }
+    .odemeform
+    {
+        width: 100%;
+        max-width: 600px;
+    }
+    .odemealani
+    {
+       width: 100%;
+       max-width: 200px;
+       float: left;
+    }
+    .odemebilgiler
+    {
+        width: 100%;
+        max-width: 300px;
+        margin-top: -15px;
+        margin-left: 45px;
+    }
+    .p-alan
+    {
+        width: 100%;
+        max-width: 100px;
+    }
+    .k-s
+    {
+        width: 150px;
+    }
+    #k-name2
+    {
+        float: left;
+        margin-left: 110px;
+    }
+    #k-surname2
+    {
+        float: left;
+        margin-left: 95px;
+    }
+    #k-num2
+    {
+        float: left;
+        margin-left: 65px;
+    }
+    #k-mail2
+    {
+        float: left;
+        margin-left: 90px;
+    }
+    #k-cvv
+    {
+        float: left;
+        margin-left: 70px;
+    }
+    #k-tarih
+    {
+        float: left;
+        margin-left: 70px;
+
+    }
+    #k-cvv2
+    {
+        float: left;
+        margin-left: 105px;
+    }
+    #k-tarih2
+    {
+        float: left;
+        margin-left: 100px;
+    }
+    .o-text
+    {
+        margin-left: 140px;
+    }
+}
+@media screen and (max-width: 400px)
+{
+    .odbg-conteiner
+    {
+        margin-top: 5900px;
+    }
+    .premiumkeyi
+    {
+        margin-left: 85px;
+        margin-top: 15px;
+        font-size: 8px;
+    }
+    #iim
+    {
+        margin-left: 32px;
+        margin-top: 75px;
+    }
+    .etiketler
+    {
+        margin-top: -150px;
+        margin-left: -9.5em;
+
+    }
+    .mccc2
+    {
+        margin-right: -0;
+    }
+    .font
+    {
+        margin-top: -40;
+        float: left;
+        margin-left: 0px;
+        font-size: 11px;
+    }
+    .text
+    {
+        margin-left: 25px;
+        padding: 10%;
+    }
+    .contacttext
+    {
+       font-size: 10px;
+       margin-top: -95px;
+    }
+    .img img
+    {
+        width: 18px;
+        height: 18px;
+        padding: 10px 0px;
+    }
+    .glogo
+    {
+        margin-top: 33px;
+        margin-left: 5px;
+    }
+    .ilogo
+    {
+        margin-top: -15px;
+        margin-left: 5px;
+    }
+    .mcpre
+    {
+        max-width: 200px;
+        width: 100%;
+        height: 625px;
+    }
+    .c
+    {
+        margin-left: 45px;
+    }
+    #mcpre-1
+    {
+        margin-top: 50px;
+    }
+    #h-1
+    {
+        margin-left: 25px;
+    }
+    .odemeform
+    {
+        width: 100%;
+        max-width: 600px;
+    }
+    .odemealani
+    {
+       width: 100%;
+       max-width: 200px;
+       float: left;
+    }
+    .odemebilgiler
+    {
+        width: 100%;
+        max-width: 300px;
+        margin-top: -15px;
+        margin-left: 0px;
+    }
+    .p-alan
+    {
+        width: 100%;
+        max-width: 100px;
+    }
+    .k-s
+    {
+        width: 150px;
+    }
+    #k-name2
+    {
+        float: left;
+        margin-left: 110px;
+    }
+    #k-surname2
+    {
+        float: left;
+        margin-left: 95px;
+    }
+    #k-num2
+    {
+        float: left;
+        margin-left: 65px;
+    }
+    #k-mail2
+    {
+        float: left;
+        margin-left: 90px;
+    }
+    #k-cvv
+    {
+        float: left;
+        margin-left: 70px;
+    }
+    #k-tarih
+    {
+        float: left;
+        margin-left: 70px;
+
+    }
+    #k-cvv2
+    {
+        float: left;
+        margin-left: 105px;
+    }
+    #k-tarih2
+    {
+        float: left;
+        margin-left: 100px;
+    }
+    .o-text
+    {
+        margin-left: 50px;
+    }
+    .menu-icerik
+    {
+        min-width: 165px;
+        font-size: 10px;
+    }
+    .menubuton
+    {
+        max-width: 165px;
+        font-size: 10px;
+    }
+    
+}
+@media screen and (max-width: 300px)
+{
+    .premiumkeyi
+    {
+        margin-left: 55px;
+        margin-top: 15px;
+        font-size: 8px;
+    }
+    #iim
+    {
+        margin-left: 15px;
+        margin-top: 75px;
+    }
+    .etiketler
+    {
+        margin-top: -150px;
+        margin-left: -8.2em;
+
+    }
+    #keyipre
+    {
+        font-size: 10;
+        margin-top: 5px;
+    }
+    #telif
+    {
+        font-size: 14;
+    }
+    .mccc2
+    {
+        margin-right: -0;
+    }
+    .odbg-conteiner
+    {
+        margin-top: 550px;
+    }
+    
+    .font
+    {
+        margin-top: -50;
+        float: left;
+        font-size: 8px;
+    }
+    .text
+    {
+        margin-left: 25px;
+        padding: 10%;
+    }
+    .contacttext
+    {
+       font-size: 8px;
+       margin-top: -90px;
+       width: 100%;
+    }
+    .img img
+    {
+        width: 15px;
+        height: 15px;
+        padding: 10px 5px;
+    }
+    .glogo
+    {
+        margin-top: 29px;
+        margin-left: 5px;
+    }
+    .ilogo
+    {
+        margin-top: -15px;
+        margin-left: 5px;
+    }
+
+    .mcpre
+    {
+        max-width: 175px;
+        width: 100%;
+        height: 650px;
+    }
+    .c
+    {
+        margin-left: 5px;
+    }
+    #mcpre-1
+    {
+        margin-top: 50px;
+    }
+    #h-1
+    {
+        margin-left: 25px;
+    }
+    .h2
+    {
+        margin-top: 0px;
+    }
+    .mcpreconteiner
+    {
+        height: 4350px;
+    }
+    .odemeform
+    {
+        width: 100%;
+        max-width: 160px;
+    }
+    .odemealani
+    {
+       width: 100%;
+       max-width: 500px;
+       margin-top: 25px;
+       float: left;
+    }
+    .odemebilgiler
+    {
+        width: 155%;
+        max-width: 500px;
+        height: 500px;
+        margin-left: -45px;
+        background-color: #232323;
+    }
+    .p-alan
+    {
+        width: 100%;
+        max-width: 150px;
+    }
+    .k-s
+    {
+        width: 150px;
+    }
+    #k-name2
+    {
+        float: left;
+        margin-left: 110px;
+        color: white;
+    }
+    #k-surname2
+    {
+        color: white;
+        float: left;
+        margin-left: 95px;
+    }
+    #k-num2
+    {
+        color: white;
+        float: left;
+        margin-left: 65px;
+    }
+    #k-mail2
+    {
+        color: white;
+        float: left;
+        margin-left: 90px;
+    }
+    #k-cvv
+    {
+        float: left;
+        margin-left: 70px;
+    }
+    #k-tarih
+    {
+        float: left;
+        margin-left: 70px;
+
+    }
+    #k-cvv2
+    {
+        color: white;
+        float: left;
+        margin-left: 105px;
+    }
+    #k-tarih2
+    {
+        color: white;
+        float: left;
+        margin-left: 100px;
+    }
+    .menu-icerik
+    {
+        min-width: 125px;
+        font-size: 10px;
+    }
+    .menubuton
+    {
+        max-width: 125px;
+        font-size: 7px;
+    }
+}
+@media screen and (max-width: 290px)
+{
+    
+    .font
+    {
+        margin-top: -50;
+        float: left;
+        font-size: 8px;
+    }
+    .text
+    {
+        margin-left: 25px;
+        padding: 10%;
+    }
+    .contacttext
+    {
+       font-size: 8px;
+       margin-top: -90px;
+       width: 100%;
+    }
+    .img img
+    {
+        width: 15px;
+        height: 15px;
+        padding: 10px 5px;
+    }
+    .glogo
+    {
+        margin-top: 29px;
+        margin-left: 5px;
+    }
+    .ilogo
+    {
+        margin-top: -15px;
+        margin-left: 5px;
+    }
+    .mcpre
+    {
+        max-width: 175px;
+        width: 100%;
+        height: 650px;
+    }
+    .c
+    {
+        margin-left: 5px;
+    }
+    #mcpre-1
+    {
+        margin-top: 50px;
+    }
+    #h-1
+    {
+        margin-left: 25px;
+    }
+    .h2
+    {
+        margin-top: 0px;
+    }
+    .mcpreconteiner
+    {
+        height: 4350px;
+    }
+    .odemeform
+    {
+        width: 100%;
+        max-width: 160px;
+    }
+    .odemealani
+    {
+       width: 100%;
+       max-width: 500px;
+       margin-top: 25px;
+       float: left;
+    }
+    .odemebilgiler
+    {
+        width: 155%;
+        max-width: 500px;
+        height: 500px;
+        margin-left: -45px;
+        background-color: #232323;
+    }
+    .p-alan
+    {
+        width: 100%;
+        max-width: 150px;
+    }
+    .k-s
+    {
+        width: 150px;
+    }
+	.o-text
+	{
+		margin-left:0px
+	}
+	#k-name
+	{
+		margin-left:40px;
+	}
+	#k-num
+	{
+		margin-left:40px;
+	}
+	#k-mail
+	{
+		margin-left:40px;
+	}
+	#k-surname
+	{
+		margin-left:40px;
+	}
+    #k-name2
+    {
+        float: left;
+        margin-left: 100px;
+        color: white;
+    }
+    #k-surname2
+    {
+        color: white;
+        float: left;
+        margin-left: 90px;
+    }
+    #k-num2
+    {
+        color: white;
+        float: left;
+        margin-left: 65px;
+    }
+    #k-mail2
+    {
+        color: white;
+        float: left;
+        margin-left: 90px;
+    }
+    #k-cvv
+    {
+        float: left;
+        margin-left: 65px;
+    }
+    #k-tarih
+    {
+        float: left;
+        margin-left: 65px;
+
+    }
+    #k-cvv2
+    {
+        color: white;
+        float: left;
+        margin-left: 100px;
+    }
+    #k-tarih2
+    {
+        color: white;
+        float: left;
+        margin-left: 95px;
+    }
+}
+
+

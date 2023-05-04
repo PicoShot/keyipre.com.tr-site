@@ -1,0 +1,727 @@
+body{
+    background-color: rgb(49, 121, 121);
+    margin: 0;
+    padding: 0;
+}
+.b-k
+{
+        max-width: 100px;
+        width: 100%;
+        height: 100px;
+        margin:25px;
+}
+#hkk
+{
+	margin-left:-30px
+}
+#keyilogo
+{
+    margin-left: 50px;
+    margin-top: -20px;
+    width: 100%;
+    max-width: 300px;
+    height: 100px;
+    float: left;
+}
+#keyilogo:hover
+{
+    opacity: 0.5;
+}
+.carousel-item {
+    position: relative;
+    float: left;
+    width: 100%;
+    height: 100px;
+    margin-top: 90px;
+    transition: transform 0.6s ease-in-out;
+  }
+  .w-100 {
+    width: 100% !important;
+    max-width: 250px;
+    margin-top: -30px;
+  }
+a
+{
+    color:brown;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+.b-k:hover
+    {
+      color: tomato;
+    }
+.b-a
+{
+    width: 100%;
+    height: 100%;
+    max-height: 50px;
+    position: absolute;
+    margin-top: 20px;
+}
+.y-d
+{
+    margin-top: 0px;
+    padding: 16px;
+    font-size: 18px;
+}
+.banner
+{
+	display:none;
+}
+.basliklar
+{
+    background-color: rgb(36, 35, 35);
+    width: 100%;
+    height: 90px;
+}
+.footer
+{
+    width: 100%;
+    background-color: rgb(36, 35, 35);
+    float: left;
+    height: 400px;
+    margin-top: 25px;  
+}
+.copyright
+{
+    width: 100%;
+    background-color: #141414;
+    height: 65px;
+    float: left;
+}
+.copytext
+{
+    margin-top: 10px;
+    justify-content: center;
+    text-align: center;
+    
+}
+.odbg-conteiner
+{
+    width: 100%;
+
+}
+.odbg
+{
+    margin-top: 50px;
+    width: 100%;
+    border-radius: 25px;
+    max-width: 900px;
+    opacity: 0.7;
+    filter:alpha(opacity=70);
+    background-color: #646262;
+    height: 250px;
+    justify-content: center;
+    text-align: center;
+}
+.copy-text
+{
+    color: gray;
+}
+.font
+{
+    font-size: 25px;
+    font-family: tahoma;
+    margin-top: 25px;
+}
+.text
+{
+    position: relative;
+    margin-top: 40px;
+    margin-left: 25%;
+    
+}
+.text:hover
+{
+    text-shadow: 4px 4px 4px  rgb(0, 0, 0);
+    opacity: 0.5;
+}
+*
+{
+    text-decoration: none;
+}
+.conteiner
+{
+   width: 100%;
+   height: 100%;
+}
+.text a
+{
+	 color:brown;
+     margin-top: 7;
+     padding: 45px;
+     float: right;
+     margin-right: 90px;
+}
+.ftext
+{
+    max-width: 310px;
+    width: 100%;
+    max-height: 100px;
+    height: 100%;
+
+}
+.contacttext
+{
+    color:black;
+    font-family: tahoma;
+    width: 100%;
+    margin-left: 35px;
+    color:rgb(27, 27, 27);
+    font-size: 17px;
+    margin-top: -115px;
+    height: 100%;
+
+}
+.img img
+{
+    width: 35px;
+        height: 35px;
+        padding: 10px 0px;
+}
+.imgconteiner
+{
+    height: 95px;
+    width: 40px;
+    margin-left: 4px;
+}
+.glogo
+    {
+        margin-top: 38px;
+        margin-left: -5px;
+    }
+    .ilogo
+    {
+        margin-top: -14px;
+        margin-left: -5px;
+    }
+.f-bord
+{
+    border-radius: 25px;
+    max-width: 300px;
+    width: 100%;
+    height: 500px;
+}
+.h-posion
+{
+    position: absolute;
+    width: 100%;
+    height: 500px;
+    background-color: rgb(36, 35, 35); 
+}
+*
+{
+    font-family: tahoma;
+}
+.mcpretext
+{
+    color: rgb(36, 35, 35);
+    font-family: tahoma;
+    margin-right: 25px;
+}
+.mcpre
+{
+    max-width: 300px;
+    width: 100%;
+    height: 650px;
+    background-color: rgb(36, 35, 35);
+    float: left;
+    padding: 20px;
+    margin: 0px;
+    border-radius: 25px;
+    margin-top: 0px;
+    margin-left: 25px;
+}
+.c
+{
+    margin-left: 35px;
+    text-align: center;
+    margin-top: 15px;
+    width: auto;
+}
+.c2
+{
+    margin-left: 35px;
+    text-align: center;
+    margin-top: 15px;
+    width: auto;
+}
+
+.preimg
+{
+    max-width: 300px;
+    width: 100%;
+    height: 300px;
+    border-radius: 15px;
+    transition: 2s; 
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.preimg:hover
+{
+    transform: scale(1.1) rotate(0deg);
+}
+.pre-text-bord
+{
+    max-width: 300px;
+    width: 100%;
+    height: 290px;
+    margin-top: 15px;
+}
+.pre-text
+{
+    font-family: tahoma;
+    font-size: 16px;
+    color: white;
+}
+.satinbuton
+{
+    max-width: 150px;
+    width: 100%;
+    height: 55px;
+    color:rgb(255, 255, 255);
+    background-color: gray;
+    font-size: 19px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.satinbuton:hover
+{
+    box-shadow: 5px 5px 5px black;
+    max-width: 200px;
+    height: 65px;
+    background-color: rgb(211, 92, 92);
+}
+.s-k-conteiner
+{
+    width: 100%;
+    max-width: 1200px;
+    height: 1500px;
+    position: relative;
+}
+.mcpreconteiner
+{
+    width: 100%;
+    max-width: 1200px;
+    height: 1500px;
+    position: relative;
+    margin-top: 550px;
+}
+.satinalbasliktext
+{
+    color:rgb(36, 35, 35);
+}
+.menubuton {
+    background-color: rgb(36, 35, 35);
+    color: white;
+    width: 300px;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+ 
+.menu {
+    position: relative;
+    display: inline-block;
+    font-family: Arial;
+    font-size: 15px;
+}
+ 
+.menu-icerik {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 300px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+ 
+.menu-icerik a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+ 
+.demir:hover {
+    background-color: rgb(62, 65, 60);
+    color:rgb(255, 255, 255);
+}
+.altin:hover {
+    background-color: rgb(229, 255, 0);
+    color:rgb(161, 73, 73);
+}
+.elmas:hover {
+    background-color: rgb(2, 230, 230);
+    color:rgb(129, 58, 102);
+}
+ 
+.menu:hover .menu-icerik {
+    display: block;
+}
+ 
+.menu:hover .menubuton {
+    background-color: brown;
+}
+
+.odemeform
+{
+    width: 100%;
+    max-width: 900px;
+    height: 550px;
+    background-color: rgb(68, 77, 77);
+    text-align: center;
+    margin-top: 90px;
+    border-radius: 25px;
+}
+.p-alan
+{
+    width: 100%;
+    max-width: 300px;
+    border:10px solid rgb(36, 35, 35);
+    height: 530px;
+    border-radius: 25px;
+    float: left;
+}
+.odemealani
+{
+    width: 100%;
+    max-width: 580px;
+    border-radius: 25px;
+    height: 550px;
+    float: right;
+
+}
+.odemebilgiler
+{
+    width: 100%;
+    max-width: 500px;
+    height: 450px;
+    margin-top: -15px;
+    margin-left: 45px;
+    border-radius: 25px;
+
+}
+.kartadi-soyadi
+{
+    margin: 10px;
+    padding: 0px;
+}
+.k-s
+{
+    border-radius: 25px;
+    margin-left: 0px;
+    margin: 5px;
+    width: 465px;
+    height: 50px;
+    border:none;
+}
+.k-ss
+{
+    border-radius: 25px;
+    margin-left: 0px;
+    margin: 5px;
+    width: 100px;
+    height: 50px;
+    border:none;
+}
+.k-s:hover
+{
+    border: 2px solid rgb(97, 51, 51);
+}
+.kartnumara
+{
+    margin: 10px;
+    padding: 0px;
+}
+.kartemail
+{
+    margin: 10px;
+    padding: 0px;
+}
+.kart-cvv-tarih
+{
+    margin: 10px;
+    padding: 0px;
+}
+.odemebuton-stil
+{
+    width: 110px;
+    height: 40px;
+    border:none;
+    transition: 0.4s;
+    background-color: #3942c4;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.odemebuton-stil:hover
+{
+    color: rgba(73, 211, 68, 0.658);
+    background-color: brown;
+    box-shadow: 2px 2px 5px #ffffff;
+    
+}
+.g-d-b
+{
+    position: absolute;
+    margin-top: -75px;
+    float: left;    
+    margin-left: 25px;
+}
+.gdb
+{
+    width: 100px;
+    height: 50px;
+    border:none;
+    background-color: rgb(49, 121, 121);
+}
+.g-img
+{
+    width: 50px;
+    height: 50px;
+}
+.kosulconteiner
+{
+   padding-left: 10px;
+   padding-right: 10px;
+
+}
+.kconteiner
+{
+    background-color: rgb(36, 35, 35);
+    padding: 15px;
+    margin: 15px;
+
+}
+.kbaslik
+{
+    font-size: 25px;
+    color: #ff0000;
+    text-align: center;
+}
+.keyib
+{
+    color: #ffffff;
+    font-size: 20;
+    background-color: rgb(36, 35, 35);
+}
+.kicerik
+{
+    margin-left: 15px;
+    color: #ffffff;
+    font-size: 20;
+    float: left;
+}
+.icerik
+{
+    width: 100%;
+    height: 750px;
+    float: left;
+    background-color: rgb(36, 35, 35);
+}
+.kr
+{
+    width: 100%;
+    float: left;
+    background-color: rgb(36, 35, 35);
+    filter: drop-shadow(0px 0px 6px #000000);
+}
+.iceriktext
+{
+    font-family: tahoma;
+    color: #49a4ce;
+    font-size: 20px; 
+}
+#garnt-s
+{
+    font-size: 20px;
+    color: #646ab9;
+    float: left;
+}
+.mccc
+{
+text-align: center;
+width: 100%;
+justify-items: center;
+}
+.mccc2
+{
+    filter: drop-shadow(0px 0px 6px #d1d1d1);
+    width: 100%;
+    max-width: 500px;
+    float: right;
+    margin-right: 60px;
+    transition: all 1s;
+}
+.mccc2:hover
+{
+    transition: all 1s;
+   filter: drop-shadow(0px 0px 6px #dd5c5c);
+   transform: rotate(360deg);
+}
+.bb-text
+{
+    width: 100%;
+    height: 500px;
+}
+
+.btext
+{
+    animation: blinker 1s linear infinite;
+    filter: drop-shadow(0px 0px 6px #00ff00);
+    float: left;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: 15px;
+    justify-content: center;
+    text-align: center;
+    font-family: tahoma;
+    color:#ffffff;
+}
+@keyframes blinker {  
+    0%
+    {
+        opacity: 1;
+        color:#631e1e;
+    }
+    1%
+    {
+        opacity: 0;
+        color:#fbff00;
+
+    }
+    2%
+    {
+        opacity: 0;
+        color:#dd5c5c;
+
+    }
+    3%
+    {
+        opacity: 0;
+        color:#dd5c5c;
+
+    }
+    4%
+    {
+        opacity: 1;
+        color:#f5a42b;
+
+    }
+    5%
+    {
+        opacity: 1;
+        color:#dd5c5c;
+
+    }
+    6%
+    {
+        opacity: 0;
+        color:#000000;
+
+    }
+    7%
+    {
+        opacity: 0;
+        color:#746e6e;
+
+    }
+    8%
+    {
+        opacity: 0;
+        color:#8c72e7;
+
+    }
+    9%
+    {
+        opacity: 0;
+        color:#dd5c5c;
+
+    }
+    10%
+    {
+        opacity: 1;
+        color:#ff00d4;
+        filter: drop-shadow(0px 0px 6px #ca4f4f);
+    }
+    20%
+    {
+        opacity: 0;
+        color:#7be7a5;
+    }
+    30%
+    {
+        opacity: 1;
+        color:#178abe;
+    }
+    }
+
+
+    .iletisim
+    {
+
+        margin-top: 190px;
+        margin-left: 50px;
+    } 
+    .iletisim-text
+    {
+        color: gray;
+    }
+    #iim
+    {
+        color: gray;
+    }
+    #iim:hover
+    {
+        color: #02ff02;
+    }
+    .iletisim-baslik
+    {
+        color: brown;
+        margin-left: 45px;
+        
+    }
+    #iim
+    {
+        float: left;
+        margin-left: 20px;
+    }
+    .etiketler
+    {
+
+        float: left;
+        margin-left: 55px;
+        margin-top: -70px;
+        text-align: center;
+    }
+    .etiketicerik
+    {
+        color: gray;
+    }
+    .etiketlink
+    {
+        color: gray;
+        margin: 5px;
+        margin-bottom: 0.5em !important;
+
+        margin-top: 15px;
+    }
+    .etiketlink:hover
+    {
+        color:#00ff00;
+    }
+    .premiumkeyi
+    {
+        color: gray;
+       float: left;
+       margin-left: 90px;
+       margin-top: -70px;
+       text-align: center;
+    }
+.her
+{
+    width: 100%;
+    max-width: 1000px;
+    height: 250px;
+}

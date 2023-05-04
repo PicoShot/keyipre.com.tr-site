@@ -1,0 +1,8 @@
+[30-Apr-2023 17:28:11 UTC] PHP Fatal error:  Cannot redeclare go() in /home/keyiprec/public_html/shopier/functions.php on line 2
+[30-Apr-2023 17:28:11 UTC] PHP Stack trace:
+[30-Apr-2023 17:28:11 UTC] PHP   1. {main}() /home/keyiprec/public_html/shopier/payment.php:0
+[30-Apr-2023 17:30:14 UTC] PHP Warning:  Undefined variable $db in /home/keyiprec/public_html/shopier/payment.php on line 33
+[30-Apr-2023 17:30:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/keyiprec/public_html/shopier/payment.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keyiprec/public_html/shopier/payment.php on line 33
